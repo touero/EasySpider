@@ -1,6 +1,10 @@
 # EasySpider: Visual Code-Free Web Crawler
 
-[中文](README.md) | **English**
+
+> [!TIP]
+> [中文](README.md) | **English**
+>
+
 
 A visual browser automation test/data collection/crawler software, which can be used to design and execute tasks in a code-free visual way. You only need to select the content you want to operate on the web page and follow the prompts to complete the design and execution of the task. At the same time, the software can also be executed separately in the command line, so that it can be easily embedded into other systems.
 
