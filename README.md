@@ -163,7 +163,7 @@ Bilibili/B站视频教程:
 
 ## 编译说明
 
-[编译说明](ElectronJS/README.md)
+[编译说明](ElectronJS/docs/README.md)
 
 ## 支持特性
 

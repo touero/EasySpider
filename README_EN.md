@@ -110,7 +110,7 @@ Meanwhile, the software is protected by patent rights. If it is used for commerc
 
 ## Compilation Instructions
 
-[Compilation Instructions](ElectronJS/README.md).
+[Compilation Instructions](ElectronJS/docs/README_EN.md).
 
 ## Supported Features
 
